@@ -1,0 +1,19 @@
+{
+    "name": "brackets-disable-folders",
+    "version": "1.0.0",
+    "description": "Disable node_modules, bower_components, dist and tmp folder",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "brackets",
+        "folder",
+        "node_modules"
+  ],
+    "author": "MaxCode",
+    "license": "ISC",
+    "engines": {
+        "brackets": ">=0.34.0"
+    }
+}
