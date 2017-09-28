@@ -1,6 +1,6 @@
 # brackets-disable-folders
 
-Brackets extension that disable node_modules, bower_components, dist and tmp folder.#
+Brackets extension that disable node_modules, bower_components, dist and tmp folder.
 
 ## Usage
 
